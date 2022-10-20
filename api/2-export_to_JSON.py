@@ -1,7 +1,7 @@
 #!/usr/bin/python3
-""" JSON API placeholder script """
+""" JSONPlaceholder API script """
 import json
-mport requests
+import requests
 import sys
 
 
